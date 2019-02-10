@@ -7,7 +7,7 @@
 4. `pipenv install` I've prepared a Pipfile for easily installing matplotlib and numpy. Use this command to create a virtual env and install them.
 5. `pipenv run python3 main.py`
 
-You can see the results in the pdf file named Bil470 HW1 Report.pdf
+You can see the results in the pdf file named Report.pdf
 
 Datasets used in this project:
 * https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
